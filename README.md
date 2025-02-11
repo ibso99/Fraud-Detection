@@ -111,8 +111,8 @@ model_api/
 
 2. **Create a virtual environment**:
    ```bash
-   python3 -m venv venv
-   source venv/bin/activate  # On Windows: week-8-9\Scripts\activate
+   python3 -m venv week-8-9
+   source week-8-9/bin/activate  # On Windows: week-8-9\Scripts\activate
    ```
 
 3. **Install required libraries**:
