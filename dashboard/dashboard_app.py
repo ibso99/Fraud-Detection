@@ -6,7 +6,7 @@ from datetime import datetime
 import socket
 import struct
 
-# Initialize Flask app
+# Initialize Flask app to run the prediction model
 server = Flask(__name__)
 
 # Initialize Dash app
