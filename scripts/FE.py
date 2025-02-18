@@ -82,7 +82,7 @@ def feature_engineering(fraud_data, output_future_engineered):
         fraud_data[boolean_columns] = fraud_data[boolean_columns].astype(int)
         logging.info("Boolean columns converted to integers.")
         
-        # Save processed data
+        # Save processed data final
         print(f"Saving processed data to {output_future_engineered}...")
         fraud_data.to_csv(output_future_engineered, index=False)
         logging.info(f"Data successfully saved to {output_future_engineered}.")
