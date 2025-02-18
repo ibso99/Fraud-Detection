@@ -6,7 +6,7 @@ import numpy as np
 from model_definitions import RNNModel
 import logging
 
-# Initialize Flask app for serving
+# Initializing Flask app for model serving
 app = Flask(__name__)
 
 # Configure logging
