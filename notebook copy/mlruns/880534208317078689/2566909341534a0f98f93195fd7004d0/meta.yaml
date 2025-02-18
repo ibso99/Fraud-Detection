@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/ibsan/Desktop/TenX/week-8-9/Notebook/mlruns/880534208317078689/2566909341534a0f98f93195fd7004d0/artifacts
+end_time: 1739174517202
+entry_point_name: ''
+experiment_id: '880534208317078689'
+lifecycle_stage: active
+run_id: 2566909341534a0f98f93195fd7004d0
+run_name: Decision Tree
+run_uuid: 2566909341534a0f98f93195fd7004d0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739174510995
+status: 3
+tags: []
+user_id: ibsan

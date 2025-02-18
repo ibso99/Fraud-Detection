@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/ibsan/Desktop/TenX/week-8-9/Notebook/mlruns/880534208317078689/f1904eb28d244d60a7b33acacc2b2d28/artifacts
+end_time: 1739257112072
+entry_point_name: ''
+experiment_id: '880534208317078689'
+lifecycle_stage: active
+run_id: f1904eb28d244d60a7b33acacc2b2d28
+run_name: Logistic Regression
+run_uuid: f1904eb28d244d60a7b33acacc2b2d28
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739257070928
+status: 3
+tags: []
+user_id: ibsan

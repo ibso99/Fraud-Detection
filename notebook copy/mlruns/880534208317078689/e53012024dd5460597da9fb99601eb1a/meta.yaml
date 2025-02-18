@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/ibsan/Desktop/TenX/week-8-9/Notebook/mlruns/880534208317078689/e53012024dd5460597da9fb99601eb1a/artifacts
+end_time: 1739174541932
+entry_point_name: ''
+experiment_id: '880534208317078689'
+lifecycle_stage: active
+run_id: e53012024dd5460597da9fb99601eb1a
+run_name: Gradient_Boosting
+run_uuid: e53012024dd5460597da9fb99601eb1a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739174535633
+status: 3
+tags: []
+user_id: ibsan

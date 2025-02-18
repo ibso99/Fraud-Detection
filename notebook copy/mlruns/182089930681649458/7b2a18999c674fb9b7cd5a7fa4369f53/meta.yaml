@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/ibsan/Desktop/TenX/week-8-9/Notebook/mlruns/182089930681649458/7b2a18999c674fb9b7cd5a7fa4369f53/artifacts
+end_time: 1739187496672
+entry_point_name: ''
+experiment_id: '182089930681649458'
+lifecycle_stage: active
+run_id: 7b2a18999c674fb9b7cd5a7fa4369f53
+run_name: model
+run_uuid: 7b2a18999c674fb9b7cd5a7fa4369f53
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739186292692
+status: 3
+tags: []
+user_id: ibsan

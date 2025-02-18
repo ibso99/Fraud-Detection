@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/ibsan/Desktop/TenX/week-8-9/Notebook/mlruns/179059837735683718/d2e4b4d03884476f9a25ecb95e30a6f4/artifacts
+end_time: 1739174791918
+entry_point_name: ''
+experiment_id: '179059837735683718'
+lifecycle_stage: active
+run_id: d2e4b4d03884476f9a25ecb95e30a6f4
+run_name: Random Forest
+run_uuid: d2e4b4d03884476f9a25ecb95e30a6f4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739174775618
+status: 3
+tags: []
+user_id: ibsan
