@@ -166,7 +166,7 @@ html.Div([
                 )
             ], className='chart-card mb-4'),
 
-            # Device and Browser Analysis
+            # Device and Browser Analysis styling
             html.Div([
                 html.Div([
                     html.H3('Fraud by Device', className='chart-title'),
@@ -191,7 +191,7 @@ html.Div([
                 ], className='chart-card col-md-6')
             ], className='row mb-4'),
 
-            # Time Patterns
+            # Time Patterns included
             html.Div([
                 html.Div([
                     html.H3('Fraud by Hour of Day', className='chart-title'),
